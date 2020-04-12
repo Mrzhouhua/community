@@ -1,4 +1,4 @@
-package life.student.community;
+package com.student.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
